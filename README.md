@@ -11,7 +11,7 @@
  &nbsp;
  &nbsp;
 
-## Minhas habilidades
+## My Skills
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -21,7 +21,7 @@
 
 &nbsp;
 
-## Contatos:
+## Contact:
 
 <div> 
 <a href = "mailto:gabrielmorais290921@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
