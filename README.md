@@ -1,12 +1,5 @@
 <h1 align="center">Seja bem vindo!</h1>
 
-
-<p align="center">Sou Gabriel Morais 🔥 — apaixonado por Quality Assurance.<br> Com perseverança e paciência, busco sempre evoluir e entregar valor real em cada linha de código e teste.</p>&nbsp;
-
-<div align="center" style="margin-bottom:100px">
-<img width=45% align="center"  src="https://github-readme-stats.vercel.app/api?username=el15morais&show_icons=true&theme=holi" />
-<img width=49% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=el15morais&layout=compact&theme=holi&hide_border=false" />
- </div>
  
  &nbsp;
  &nbsp;
